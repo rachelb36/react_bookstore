@@ -25,6 +25,8 @@ The REACT_BOOKSTORE project is a full-stack application that enables users to ex
 - **Other Tools**: Nodemon, dotenv for environment variables
 
 ## Installation
+See deployed site on Render:
+<https://react-bookstore-qp8g.onrender.com>
 
 ### Prerequisites
 Ensure you have the following installed on your machine:
