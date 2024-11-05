@@ -54,6 +54,10 @@ PORT=3001`
 
 Once the server is running, open your browser and go to http://localhost:3000 to view the application.
 
+![bookstore image 1](client/public/assets/bookstore.png)
+![bookstore image 2](client/public/assets/bookstore1.png)
+![bookstore image 3](client/public/assets/bookstore2.png)
+
 ## GraphQL Playground
 If you want to interact directly with the GraphQL API, navigate to http://localhost:3001/graphql (or as configured in your environment variables).
 
