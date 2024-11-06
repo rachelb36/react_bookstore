@@ -1,5 +1,5 @@
-# Book Search Engine Starter Code
-# 
+# MERN Challenge: Book Search Engine
+# Module 21
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -26,7 +26,7 @@ The REACT_BOOKSTORE project is a full-stack application that enables users to ex
 
 ## Installation
 See deployed site on Render:
-<https://react-bookstore-qp8g.onrender.com>
+<https://react-bookstore-s78p.onrender.com/>
 
 ### Prerequisites
 Ensure you have the following installed on your machine:
